@@ -1,4 +1,4 @@
-### Hey there 👋 I'm Mike
+<img src="lion.png" width="111" alt="Lion Image"> Devoted to the codes
 
 <!--
 **michaelangelesz/michaelangelesz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
